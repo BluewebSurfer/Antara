@@ -1,7 +1,7 @@
 body {over2-x: hidden;}
 * {
   box-sizing: border-box;
-  font-family: 'Courgette', cursive;
+  font-family: 'Petit Formal Script', cursive;
 }
 
 .bg-img {
@@ -191,7 +191,7 @@ div.sta{
     margin: 0;
     padding: 0;
     
-    font-family: 'Courgette', cursive;
+    font-family: 'Petit Formal Script', cursive;
     letter-spacing: 1px;
     font-weight: 300;
 }
@@ -211,8 +211,8 @@ nav{
     text-align: center;
 }
 .logo img {
-    height: 3rem;
-    width: 5rem;
+    height: 3.5rem;
+    width: 6rem;
 }
 
 /*Styling Links*/

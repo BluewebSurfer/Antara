@@ -5,8 +5,7 @@
     font-family: sans-serif;
     letter-spacing: 1px;
     font-weight: 300;
-    /*font-family: 'Courgette', cursive;*/
-    font-family: 'Merienda', cursive;
+    font-family: 'Petit Formal Script', cursive;
 }
 body{
     overflow-x: hidden;
@@ -44,8 +43,8 @@ nav{
     text-align: center;
 }
 .logo img {
-    height: 6rem;
-    width: 7rem;
+    height: 3.5rem;
+    width: 6rem;
 }
 
 /*Styling Links*/
@@ -561,7 +560,7 @@ margin-left: 0px;
 
   body {
 
-  font-family:        ‘Lato’, Arial, sans-serif; 
+  font-family: 'Petit Formal Script', cursive;
   margin:             2vw;
   
 }
@@ -594,7 +593,7 @@ margin-left: 0px;
 
   body {
 
-  font-family:        ‘Lato’, Arial, sans-serif; 
+  font-family: 'Petit Formal Script', cursive;
   margin:             2vw;
   
 }

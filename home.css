@@ -1,12 +1,12 @@
 body {over2-x: hidden;}
 * {
   box-sizing: border-box;
-  font-family: 'Courgette', cursive;
+  font-family: 'Petit Formal Script', cursive;
 }
 
 .bg-img {
   /* The image used */
-  background-image: url("image/home1.jpg");
+  background-image: url("image/ant2.jpg");
 
   min-height: 625px;
   width: 100%;
@@ -28,8 +28,9 @@ body {over2-x: hidden;}
 .note{
     float: left;
   margin-top: 150px;
-  margin-left: 18%;
+  margin-left: 11%;
   color: #f6f6f6;
+  font-family: 'Charm', cursive;
 }
 
 .dar{
@@ -51,7 +52,7 @@ body {over2-x: hidden;}
 }*/
 
 .text{
-  background-image: url("image/home3.jpg");
+  background-image: url("image/ant4.jpg");
   object-fit: cover;
 }
 
@@ -212,7 +213,7 @@ div.sta{
     margin: 0;
     padding: 0;
     
-    font-family: 'Courgette', cursive;
+    font-family: 'Petit Formal Script', cursive;
     letter-spacing: 1px;
     font-weight: 300;
 }
@@ -232,8 +233,8 @@ nav{
     text-align: center;
 }
 .logo img {
-    height: 3rem;
-    width: 5rem;
+    height: 3.5rem;
+    width: 6rem;
 }
 
 /*Styling Links*/

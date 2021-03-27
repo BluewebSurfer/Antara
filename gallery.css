@@ -1,7 +1,7 @@
 body {over2-x: hidden;}
 * {
   box-sizing: border-box;
-  font-family: 'Courgette', cursive;
+  font-family: 'Petit Formal Script', cursive;
 }
 
 .bg-img {
@@ -71,16 +71,17 @@ font-size: 1.5em;
 color: #f2f2f2;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');*/
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Petit Formal Script', cursive;
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Petit Formal Script', cursive;
 }
 
 .contenedor {
@@ -276,7 +277,7 @@ div.sta{
     margin: 0;
     padding: 0;
     
-    font-family: 'Courgette', cursive;
+    font-family: 'Petit Formal Script', cursive;
     letter-spacing: 1px;
     font-weight: 300;
 }
@@ -296,8 +297,8 @@ nav{
     text-align: center;
 }
 .logo img {
-    height: 3rem;
-    width: 5rem;
+    height: 3.5rem;
+    width: 6rem;
 }
 
 /*Styling Links*/

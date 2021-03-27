@@ -1,7 +1,7 @@
 body {over2-x: hidden;}
 * {
   box-sizing: border-box;
-  font-family: 'Courgette', cursive;
+  font-family: 'Petit Formal Script', cursive;
 }
 
 .bg-img {
@@ -28,7 +28,7 @@ body {over2-x: hidden;}
 .note{
     float: left;
   margin-top: 150px;
-  margin-left: 22%;
+  margin-left: 14%;
   color: #f6f6f6;
 }
 
@@ -156,7 +156,7 @@ div.sta{
 .img2 {
   float: left;
   width: 550px;
-  height: 680px;
+  height: 750px;
   margin-left: 100px;
   margin-right: 40px;
   margin-bottom: 50px;
@@ -205,7 +205,7 @@ div.sta{
     margin: 0;
     padding: 0;
     
-    font-family: 'Courgette', cursive;
+    font-family: 'Petit Formal Script', cursive;
     letter-spacing: 1px;
     font-weight: 300;
 }
